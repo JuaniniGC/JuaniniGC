@@ -1,8 +1,11 @@
 <h2> Hi There, I'm Juan Garcia Carballo! <img src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/gifs/Hi.gif" width="30"></h2>
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Hi,+I'm+JuaniniGC;Software+engineering+student;Open+to+learning+new+things;&center=true&width=500&height=50&color=52FABD">
+  </a>
+</div>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi,+I'm+JuaniniGC;Software+engineering+student;Open+to+learning+new+things;
-)](https://git.io/typing-svg)
-## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
+## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture><b> About Me</b>
 👨‍💻 Software engineering student at the University of Seville  
 🔒 Interested in cybersecurity and data science  
 📚 Open to learning new things  
@@ -46,6 +49,17 @@
 </p>
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
-
+<div align="center">
 <img alt="JuaniniGC's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=JuaniniGC&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=52FABD&icon_color=F8D866" height="192px"/><img alt="JuaniniGC's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuaniniGC&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=52FABD&icon_color=F8D866" height="192px"/>
+</div>
 
+
+## <img src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/gifs/Hi.gif" width="30"><b> Contact Me</b>
+<div align="center">
+  <a href="mailto:juangarciacarballo@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge" alt="Gmail Badge">
+  </a>
+  <a href="https://www.linkedin.com/in/juan-garc%C3%ADa-carballo-3245622bb/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn Badge">
+  </a>
+</div>
