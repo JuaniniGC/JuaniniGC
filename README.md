@@ -6,10 +6,9 @@
 </div>
 
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture><b> About Me</b>
-👨‍💻 Software engineering student at the University of Seville  
+👨‍💻 Software Engineering graduate from the University of Seville
 🔒 Interested in cybersecurity and data science  
-📚 Open to learning new things  
-🚀 I’m currently open for an Intern or a new job opportunity  
+📚 Open to learning new things 
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
 <h4>👨‍💻 Programming Languages</h4>
